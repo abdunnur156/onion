@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is another format of alient-plot I want to include in the story.
+=======
+This is another format of changed to alient-plot I want to include in the story. and I will add this to the alient-plot branch.
+>>>>>>> alient-plot

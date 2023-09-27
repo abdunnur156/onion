@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello this is alient branch. I want to put in.
+=======
+This is the file I want to include in to the alient plot branch and this is fun
+>>>>>>> alient-plot
